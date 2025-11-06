@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # API_URL = "http://34.226.152.222:8000/predict" 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://broccoli-fast-api.onrender.com"
 
 st.title("Insurance Premium Category Predictor")
 st.markdown("Enter your details below:")
