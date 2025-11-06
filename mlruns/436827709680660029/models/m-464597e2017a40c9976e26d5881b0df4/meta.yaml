@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/k.hegde/Desktop/learnings/MLFlow_Fast_API/mlruns/436827709680660029/models/m-464597e2017a40c9976e26d5881b0df4/artifacts
+creation_timestamp: 1762431125813
+experiment_id: '436827709680660029'
+last_updated_timestamp: 1762431131455
+model_id: m-464597e2017a40c9976e26d5881b0df4
+model_type: null
+name: model
+source_run_id: 45c2836c957947869c2e53e26114f1f7
+status: 2
+status_message: null

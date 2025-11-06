@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/k.hegde/Desktop/learnings/MLFlow_Fast_API/mlruns/436827709680660029/45c2836c957947869c2e53e26114f1f7/artifacts
+end_time: 1762431131476
+entry_point_name: ''
+experiment_id: '436827709680660029'
+lifecycle_stage: active
+run_id: 45c2836c957947869c2e53e26114f1f7
+run_name: RandomForest_Pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762431125568
+status: 3
+tags: []
+user_id: k.hegde
